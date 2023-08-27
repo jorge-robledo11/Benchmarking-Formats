@@ -1,0 +1,5 @@
+USE Maraton
+
+SELECT DISTINCT home 
+FROM Maraton_NY
+ORDER BY 1
